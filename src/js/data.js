@@ -20,4 +20,4 @@ let dataSetVersion = '2021-04-29';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://static.wikia.nocookie.net/to-aru-majutsu-no-index/images/';
+const imageRoot = 'src/assets/characters/';
