@@ -30,1707 +30,1707 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [{
   name: "後方のアックア (Acqua of the Back)",
-  img: "latest?cb=20181019191849.png",
+  img: "20181019191849.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アガター (Agata)",
-  img: "latest?cb=20110122092043.png",
+  img: "20110122092043.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アニェーゼ＝サンクティス (Agnese Sanctis)",
-  img: "latest?cb=20110205035809.png",
+  img: "20110205035809.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アルバート＝ダイイング (Albert Dying)",
-  img: "latest?cb=20201206132904.png",
+  img: "20201206132904.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アンジェレネ (Angelene)",
-  img: "latest?cb=20101023022015.png",
+  img: "20101023022015.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アンナ＝シュプレンゲル (Anna Sprengel)",
-  img: "latest?cb=20201003041022.png",
+  img: "20201003041022.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "神の力（ガブリエル） (Archangel Gabriel)",
-  img: "latest?cb=20190308140902.png",
+  img: "20190308140902.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "錬金の真似事 (Aureolus Dummy)",
-  img: "latest?cb=20160224084310.png",
+  img: "20160224084310.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "アウレオルス＝イザード (Aureolus Izzard)",
-  img: "latest?cb=20120310110256.png",
+  img: "20120310110256.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "バルビナ (Balbina)",
-  img: "latest?cb=20160612023336.png",
+  img: "20160612023336.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ベイロープ (Bayloupe)",
-  img: "latest?cb=20181214211824.png",
+  img: "20181214211824.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["magic"] }
 },
 {
   name: "ビアージオ＝ブゾーニ (Biagio Busoni)",
-  img: "latest?cb=20110122132857.png",
+  img: "20110122132857.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ブリュンヒルド＝エイクトベル (Brunhild Eiktobel)",
-  img: "latest?cb=20100915024944.png",
+  img: "20100915024944.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "キャーリサ (Carissa)",
-  img: "latest?cb=20181214143151.png",
+  img: "20181214143151.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "カテリナ (Caterina)",
-  img: "latest?cb=20191121115847.png",
+  img: "20191121115847.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "サンドリヨン (Cendrillon)",
-  img: "latest?cb=20131019120956.png",
+  img: "20131019120956.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "キメラ (Chimera)",
-  img: "latest?cb=20160430121856.png",
+  img: "20160430121856.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "コロンゾン (Coronzon)",
-  img: "latest?cb=20170610130341.png",
+  img: "20170610130341.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "シンシア＝エクスメント (Cynthia Exment)",
-  img: "latest?cb=20140406015252.png",
+  img: "20140406015252.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "エリザード (Elizard)",
-  img: "latest?cb=20181214142602.png",
+  img: "20181214142602.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "エーラソーン (Ellasone)",
-  img: "latest?cb=20140617101126.png",
+  img: "20140617101126.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "エリス＝ウォリアー (Ellis Warrior)",
-  img: "latest?cb=20110213094449.png",
+  img: "20110213094449.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "エステル＝ローゼンタール (Esther Rosenthal)",
-  img: "latest?cb=20190719150118.png",
+  img: "20190719150118.png",
   opts: { series: ["一方通行"], affiliation: ["magic"] }
 },
 {
   name: "エツァリ (Etzali)",
-  img: "latest?cb=20190201140032.png",
+  img: "20190201140032.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "右方のフィアンマ (Fiamma of the Right)",
-  img: "latest?cb=20190208135334.png",
+  img: "20190208135334.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "フラック＝アンカース (Flack Anchors)",
-  img: "latest?cb=20140421170908.png",
+  img: "20140421170908.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "フロリス (Floris)",
-  img: "latest?cb=20181226163839.png",
+  img: "20181226163839.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["magic"] }
 },
 {
   name: "フリーディア＝ストライカーズ (Freadia Strikers)",
-  img: "latest?cb=20140223120408.png",
+  img: "20140223120408.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "フレイヤ (Freyja)",
-  img: "latest?cb=20131017183809.png",
+  img: "20131017183809.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "僧正 (High Priest)",
-  img: "latest?cb=20150520231531.png",
+  img: "20150520231531.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "禁書目録（インデックス） (Index Librorum Prohibitorum)",
-  img: "latest?cb=20160704014949.png",
+  img: "20160704014949.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["magic"] }
 },
 {
   name: "イサク＝ローゼンタール (Isaac Rosenthal)",
-  img: "latest?cb=20190913134748.png",
+  img: "20190913134748.png",
   opts: { series: ["一方通行"], affiliation: ["magic"] }
 },
 {
   name: "イザベラ＝テイズム (Isabella Theism)",
-  img: "latest?cb=20201010151027.png",
+  img: "20201010151027.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "諫早 (Isahaya)",
-  img: "latest?cb=20190223213450.png",
+  img: "20190223213450.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "五和 (Itsuwa)",
-  img: "latest?cb=20110323092139.png",
+  img: "20110323092139.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ジェーン＝エルブス (Jane Elves)",
-  img: "latest?cb=20130917131106.png",
+  img: "20130917131106.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ジーンズ店主 (Jeans Shop Owner)",
-  img: "latest?cb=20160612054354.png",
+  img: "20160612054354.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ジーンズ切り裂き魔 (Jeans Slasher)",
-  img: "latest?cb=20140520010140.png",
+  img: "20140520010140.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "神裂 火織 (Kanzaki Kaori)",
-  img: "latest?cb=20181124035242.png",
+  img: "20181124035242.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "木原 加群 (Kihara Kagun)",
-  img: "latest?cb=20131019120417.png",
+  img: "20131019120417.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "騎士団長（ナイトリーダー） (Knight Leader)",
-  img: "latest?cb=20181207151313.png",
+  img: "20181207151313.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "香焼 (Kouyagi)",
-  img: "latest?cb=20190223213458.png",
+  img: "20190223213458.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "クランス＝R＝ツァールスキー (Krans R. Tsarskiy)",
-  img: "latest?cb=20190329144448.png",
+  img: "20190329144448.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "レディリー＝タングルロード (Ladylee Tangleroad)",
-  img: "latest?cb=20130912163458.png",
+  img: "20130912163458.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ランシス (Lancis)",
-  img: "latest?cb=20181207150541.png",
+  img: "20181207150541.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["magic"] }
 },
 {
   name: "ローラ＝スチュアート (Laura Stuart)",
-  img: "latest?cb=20130715074930.png",
+  img: "20130715074930.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "リープ (Leep)",
-  img: "latest?cb=20140912115649.png",
+  img: "20140912115649.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "レイヴィニア＝バードウェイ (Leivinia Birdway)",
-  img: "latest?cb=20190329142638.png",
+  img: "20190329142638.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "レッサー (Lessar)",
-  img: "latest?cb=20190212105959.png",
+  img: "20190212105959.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["magic"] }
 },
 {
   name: "リドヴィア＝ロレンツェッティ (Lidvia Lorenzetti)",
-  img: "latest?cb=20181016044019.png",
+  img: "20181016044019.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ルチア (Lucia)",
-  img: "latest?cb=20101023020903.png",
+  img: "20101023020903.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ヴェルサイユの聖女 (Maiden of Versailles)",
-  img: "latest?cb=20190222135253.png",
+  img: "20190222135253.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "マリーベート＝ブラックボール (Mallybath Blackball)",
-  img: "latest?cb=20130917104143.png",
+  img: "20130917104143.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "マリアン＝スリンゲナイヤー (Marian Slingeneyer)",
-  img: "latest?cb=20131019112128.png",
+  img: "20131019112128.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "メアリエ＝スピアヘッド (Marie Spearhead)",
-  img: "latest?cb=20130917071059.png",
+  img: "20130917071059.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "マーク＝スペース (Mark Space)",
-  img: "latest?cb=20190405154253.png",
+  img: "20190405154253.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "マタイ＝リース (Matthai Reese)",
-  img: "latest?cb=20110130154328.png",
+  img: "20110130154328.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ミナ＝メイザース (Mina Mathers)",
-  img: "latest?cb=20170610130629.png",
+  img: "20170610130629.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "投擲の槌（ミョルニル） (Mjölnir)",
-  img: "latest?cb=20131111150139.png",
+  img: "20131111150139.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ネフティス (Nephthys)",
-  img: "latest?cb=20150519212515.png",
+  img: "20150519212515.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "娘々 (Niang-Niang)",
-  img: "latest?cb=20150520231617.png",
+  img: "20150520231617.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ニコライ＝トルストイ (Nikolai Tolstoy)",
-  img: "latest?cb=20190308145616.png",
+  img: "20190308145616.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "野母崎 (Nomozaki)",
-  img: "latest?cb=20190223213506.png",
+  img: "20190223213506.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "オッレルス (Ollerus)",
-  img: "latest?cb=20190405154237.png",
+  img: "20190405154237.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "オリアナ＝トムソン (Oriana Thomson)",
-  img: "latest?cb=20101218153715.png",
+  img: "20101218153715.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "オルソラ＝アクィナス (Orsola Aquinas)",
-  img: "latest?cb=20101014015732.png",
+  img: "20101014015732.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ペテロ＝ヨグディス (Pietro Yogdis)",
-  img: "latest?cb=20190308142411.png",
+  img: "20190308142411.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "クリファパズル545 (Qliphah Puzzle 545)",
-  img: "latest?cb=20180702004157.png",
+  img: "20180702004157.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "リメエア (Riméa)",
-  img: "latest?cb=20181214141233.png",
+  img: "20181214141233.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "サローニャ＝Ａ＝イリヴィカ (Saronia A. Irivika)",
-  img: "latest?cb=20131019121925.png",
+  img: "20131019121925.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "サーシャ＝クロイツェフ (Sasha Kreutzev)",
-  img: "latest?cb=20190309083208.png",
+  img: "20190309083208.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "シェリー＝クロムウェル (Sherry Cromwell)",
-  img: "latest?cb=20120919051157.png",
+  img: "20120919051157.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "シギュン (Sigyn)",
-  img: "latest?cb=20131019115418.png",
+  img: "20131019115418.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "シルビア (Silvia)",
-  img: "latest?cb=20201023105637.png",
+  img: "20201023105637.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ソーズティ＝エキシカ (Sozty Exica)",
-  img: "latest?cb=20160526111540.png",
+  img: "20160526111540.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "サンジェルマン (St. Germain)",
-  img: "latest?cb=20150520231929.png",
+  img: "20150520231929.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ステイル＝マグヌス (Stiyl Magnus)",
-  img: "latest?cb=20101128203607.png",
+  img: "20101128203607.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "建宮 斎字 (Tatemiya Saiji)",
-  img: "latest?cb=20101023073948.png",
+  img: "20101023073948.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "テクパトル (Tecpatl)",
-  img: "latest?cb=20190228032103.png",
+  img: "20190228032103.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["magic"] }
 },
 {
   name: "左方のテッラ (Terra of the Left)",
-  img: "latest?cb=20210404014242.png",
+  img: "20210404014242.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "トール (Thor)",
-  img: "latest?cb=20131019112913.png",
+  img: "20131019112913.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "トチトリ (Tochtli)",
-  img: "latest?cb=20190228032258.png",
+  img: "20190228032258.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["magic"] }
 },
 {
   name: "ツアーガイドの少女 (Tour Guide Girl)",
-  img: "latest?cb=20190511094056.png",
+  img: "20190511094056.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "土御門 元春 (Tsuchimikado Motoharu)",
-  img: "latest?cb=20120315061015.png",
+  img: "20120315061015.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "対馬 (Tsushima)",
-  img: "latest?cb=20190223213516.png",
+  img: "20190223213516.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "浦上 (Uragami)",
-  img: "latest?cb=20101023023134.png",
+  img: "20101023023134.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ウレアパディー＝エキシカ (Ureapaddy Exica)",
-  img: "latest?cb=20160526104109.png",
+  img: "20160526104109.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "牛深 (Ushibuka)",
-  img: "latest?cb=20190223213524.png",
+  img: "20190223213524.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ワシリーサ (Vasilisa)",
-  img: "latest?cb=20190303130216.png",
+  img: "20190303130216.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "前方のヴェント (Vento of the Front)",
-  img: "latest?cb=20190331230252.png",
+  img: "20190331230252.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ヴィリアン (Villian)",
-  img: "latest?cb=20181214142015.png",
+  img: "20181214142015.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ショチトル (Xochitl)",
-  img: "latest?cb=20181102213323.png",
+  img: "20181102213323.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "闇咲 逢魔 (Yamisaka Ouma)",
-  img: "latest?cb=20101008192216.png",
+  img: "20101008192216.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ゾーィ＝マクレガー (Zoe McGregor)",
-  img: "latest?cb=20160223084844.png",
+  img: "20160223084844.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "ウートガルザ・ロキ (Útgarða-Loki)",
-  img: "latest?cb=20131019114411.png",
+  img: "20131019114411.png",
   opts: { series: ["禁書"], affiliation: ["magic"] }
 },
 {
   name: "一方通行（アクセラレータ） (Accelerator)",
-  img: "latest?cb=20190208142344.png",
+  img: "20190208142344.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "藍花 悦 (Aihana Etsu)",
-  img: "latest?cb=20200719024739.png",
+  img: "20200719024739.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "エイワス (Aiwass)",
-  img: "latest?cb=20190201210140.png",
+  img: "20190201210140.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "相園 美央 (Aizono Mio)",
-  img: "latest?cb=20121019140146.png",
+  img: "20121019140146.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "アケミ (Akemi)",
-  img: "latest?cb=20100530181316.png",
+  img: "20100530181316.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "アレイスター＝クロウリー (Aleister Crowley)",
-  img: "latest?cb=20110220101621.png",
+  img: "20110220101621.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "天井 亜雄 (Amai Ao)",
-  img: "latest?cb=20130622074056.png",
+  img: "20130622074056.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "網目 (Amime)",
-  img: "latest?cb=20200117141227.png",
+  img: "20200117141227.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "青髪 ピアス (Aogami Pierce)",
-  img: "latest?cb=20120309051043.png",
+  img: "20120309051043.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "青星鈴蘭 (Aohoshi Suzuran)",
-  img: "latest?cb=20200319012655.png",
+  img: "20200319012655.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "あおき (Aoki)",
-  img: "latest?cb=20200117153948.png",
+  img: "20200117153948.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "アツシ (Atsushi)",
-  img: "latest?cb=20140412044118.png",
+  img: "20140412044118.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "泡浮 万彬 (Awatsuki Maaya)",
-  img: "latest?cb=20200214152156.png",
+  img: "20200214152156.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "アズミ (Azumi)",
-  img: "latest?cb=20190526163900.png",
+  img: "20190526163900.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "馬場 芳郎 (Baba Yoshio)",
-  img: "latest?cb=20181118052042.png",
+  img: "20181118052042.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ベニゾメ＝ゼリーフィッシュ (Benizome Jellyfish)",
-  img: "latest?cb=20201122031654.png",
+  img: "20201122031654.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ちさ (Chisa)",
-  img: "latest?cb=20200731141016.png",
+  img: "20200731141016.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "クロウ7 (Crow 7)",
-  img: "latest?cb=20130916043053.png",
+  img: "20130916043053.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "大圄 (Daigo)",
-  img: "latest?cb=20141223222653.png",
+  img: "20141223222653.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "雑貨稼業（デパート） (Depart)",
-  img: "latest?cb=20190118150322.png",
+  img: "20190118150322.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ドリー (Dolly)",
-  img: "latest?cb=20200522142032.png",
+  img: "20200522142032.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ドレンチャー＝木原＝レパトリ (Drencher Kihara Repatri)",
-  img: "latest?cb=20201122044904.png",
+  img: "20201122044904.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "枝先 絆理 (Edasaki Banri)",
-  img: "latest?cb=20200919133743.png",
+  img: "20200919133743.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "姉御 (Elder Sister)",
-  img: "latest?cb=20100529125509.png",
+  img: "20100529125509.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "女性研究員 (Female Researcher)",
-  img: "latest?cb=20200912045422.png",
+  img: "20200912045422.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "フレメア＝セイヴェルン (Fremea Seivelun)",
-  img: "latest?cb=20130704100635.png",
+  img: "20130704100635.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "フレンダ＝セイヴェルン (Frenda Seivelun)",
-  img: "latest?cb=20130601112240.png",
+  img: "20130601112240.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "フリルサンド#G (Frillsand #G)",
-  img: "latest?cb=20201122032830.png",
+  img: "20201122032830.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "フロイライン＝クロイトゥーネ (Fräulein Kreutune)",
-  img: "latest?cb=20121027103100.png",
+  img: "20121027103100.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "吹寄 制理 (Fukiyose Seiri)",
-  img: "latest?cb=20200917013318.png",
+  img: "20200917013318.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "扶桑 彩愛 (Fusou Ayame)",
-  img: "latest?cb=20160223101333.png",
+  img: "20160223101333.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "二石 香車 (Futaishi Kyousha)",
-  img: "latest?cb=20181219055656.png",
+  img: "20181219055656.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "原石の少女 (Gemstone Girl)",
-  img: "latest?cb=20130716172227.png",
+  img: "20130716172227.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "眼鏡少女 (Glasses Girl)",
-  img: "latest?cb=20170514095926.png",
+  img: "20170514095926.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "郷一 (Go Hazime)",
-  img: "latest?cb=20190831151209.png",
+  img: "20190831151209.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "獄彩雨空 (Gokusai Amazora)",
-  img: "latest?cb=20200109191800.png",
+  img: "20200109191800.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "獄彩海美 (Gokusai Kaibi)",
-  img: "latest?cb=20200110141743.png",
+  img: "20200110141743.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "浜面 仕上 (Hamazura Shiage)",
-  img: "latest?cb=20190215120557.png",
+  img: "20190215120557.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "花河雛鳥 (Hanakawa Hinadori)",
-  img: "latest?cb=20190609141211.png",
+  img: "20190609141211.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "花露過愛 (Hanatsuyu Kaai)",
-  img: "latest?cb=20201122032107.png",
+  img: "20201122032107.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "花露妖宴 (Hanatsuyu Youen)",
-  img: "latest?cb=20201122032127.png",
+  img: "20201122032127.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "春上 衿衣 (Haruue Erii)",
-  img: "latest?cb=20130414090902.png",
+  img: "20130414090902.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "服部 半蔵 (Hattori Hanzou)",
-  img: "latest?cb=20200228075228.png",
+  img: "20200228075228.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "硲舎 佳茄 (Hazamaya Kana)",
-  img: "latest?cb=20200828134935.png",
+  img: "20200828134935.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "カチューシャ子 (Headband Girl)",
-  img: "latest?cb=20140620151439.png",
+  img: "20140620151439.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "冥土帰し (Heaven Canceller)",
-  img: "latest?cb=20120504171410.png",
+  img: "20120504171410.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "蛇谷 次雄 (Hebitani Tsuguo)",
-  img: "latest?cb=20100602014915.png",
+  img: "20100602014915.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ヒコイチ (Hikoichi)",
-  img: "latest?cb=20141106153118.png",
+  img: "20141106153118.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "姫神 秋沙 (Himegami Aisa)",
-  img: "latest?cb=20100326104845.png",
+  img: "20100326104845.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "姫戲茉離 (Himegi Matsuri)",
-  img: "latest?cb=20180401002129.png",
+  img: "20180401002129.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "菱形 蛭魅 (Hishigata Hirumi)",
-  img: "latest?cb=20190809133150.png",
+  img: "20190809133150.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "菱形幹比古 (Hishigata Mikihiko)",
-  img: "latest?cb=20190719135035.png",
+  img: "20190719135035.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "人皮 挟美 (Hitokawa Hasami)",
-  img: "latest?cb=20190802154804.png",
+  img: "20190802154804.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "帆風潤子 (Hokaze Junko)",
-  img: "latest?cb=20200925134356.png",
+  img: "20200925134356.png",
   opts: { series: ["禁書", "アストラル・バディ", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "北条彩鈴 (Houjou Arei)",
-  img: "latest?cb=20201003042022.png",
+  img: "20201003042022.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "北条静護 (Houjou Seigo)",
-  img: "latest?cb=20191214032919.png",
+  img: "20191214032919.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "一澤 暁子 (Ichizawa Akiko)",
-  img: "latest?cb=20181219060441.png",
+  img: "20181219060441.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "イーコ (Iiko)",
-  img: "latest?cb=20190401062017.png",
+  img: "20190401062017.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "飯塚 (Iizuka)",
-  img: "latest?cb=20201127010532.png",
+  img: "20201127010532.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "飯棲リタ (Iizumi Rita)",
-  img: "latest?cb=20200828160039.png",
+  img: "20200828160039.png",
   opts: { series: ["超電磁砲", "一方通行"], affiliation: ["science"] }
 },
 {
   name: "居村 (Imura)",
-  img: "latest?cb=20190610082847.png",
+  img: "20190610082847.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "伊東 (Itou)",
-  img: "latest?cb=20190712175259.png",
+  img: "20190712175259.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "城南 朝来 (Jounan Asako)",
-  img: "latest?cb=20101113105635.png",
+  img: "20101113105635.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ジュンタ (Junta (Railgun anime))",
-  img: "latest?cb=20110628105548.png",
+  img: "20110628105548.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ジュンタ (Junta (Railgun manga))",
-  img: "latest?cb=20110628110319.png",
+  img: "20110628110319.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "重福省帆 (Juufuku Miho)",
-  img: "latest?cb=20100511130109.png",
+  img: "20100511130109.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "鏑木 由美 (Kaburagi Yumi)",
-  img: "latest?cb=20181219061214.png",
+  img: "20181219061214.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "介旅 初矢 (Kaitabi Hatsuya)",
-  img: "latest?cb=20100521220419.png",
+  img: "20100521220419.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "垣根 帝督 (Kakine Teitoku)",
-  img: "latest?cb=20181103092657.png",
+  img: "20181103092657.png",
   opts: { series: ["禁書", "未元物質", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "垣根 帝督 (Kakine Teitoku (Beetle 05))",
-  img: "latest?cb=20140515104838.png",
+  img: "20140515104838.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "加納 神華 (Kanou Shinka)",
-  img: "latest?cb=20150328101027.png",
+  img: "20150328101027.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "風斬 氷華 (Kazakiri Hyouka)",
-  img: "latest?cb=20150103173458.png",
+  img: "20150103173458.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "カイツ＝ノックレーベン (Keitz Nokleben)",
-  img: "latest?cb=20200131143511.png",
+  img: "20200131143511.png",
   opts: { series: ["超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "潔斎 雪紫 (Kessai Kiyoshi)",
-  img: "latest?cb=20210327024600.png",
+  img: "20210327024600.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "木寺実莉 (Kidera Minori)",
-  img: "latest?cb=20190712175312.png",
+  img: "20190712175312.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "木原数多 (Kihara Amata)",
-  img: "latest?cb=20110218165440.png",
+  img: "20110218165440.png",
   opts: { series: ["禁書", "未元物質"], affiliation: ["science"] }
 },
 {
   name: "木原 病理 (Kihara Byouri)",
-  img: "latest?cb=20130619212522.png",
+  img: "20130619212522.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "木原 円周 (Kihara Enshuu)",
-  img: "latest?cb=20130619212439.png",
+  img: "20130619212439.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "木原 幻生 (Kihara Gensei)",
-  img: "latest?cb=20200321034219.png",
+  img: "20200321034219.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "木原端数 (Kihara Hasuu)",
-  img: "latest?cb=20201201150641.png",
+  img: "20201201150641.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "木原那由他 (Kihara Nayuta)",
-  img: "latest?cb=20110614165242.png",
+  img: "20110614165242.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "木原 脳幹 (Kihara Noukan)",
-  img: "latest?cb=20160223102828.png",
+  img: "20160223102828.png",
   opts: { series: ["禁書", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "木原 乱数 (Kihara Ransuu)",
-  img: "latest?cb=20130619212624.png",
+  img: "20130619212624.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "木原 唯一 (Kihara Yuiitsu)",
-  img: "latest?cb=20160223122704.png",
+  img: "20160223122704.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "絹旗 最愛 (Kinuhata Saiai)",
-  img: "latest?cb=20190715101744.png",
+  img: "20190715101744.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "切斑 芽美 (Kirifu Megumi)",
-  img: "latest?cb=20200124054513.png",
+  img: "20200124054513.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "口囃子早鳥 (Kobayashi Satori)",
-  img: "latest?cb=20200730131239.png",
+  img: "20200730131239.png",
   opts: { series: ["超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "駒場 利徳 (Komaba Ritoku)",
-  img: "latest?cb=20110326024712.png",
+  img: "20110326024712.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "婚后 光子 (Kongou Mitsuko)",
-  img: "latest?cb=20200925141300.png",
+  img: "20200925141300.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "固法 美偉 (Konori Mii)",
-  img: "latest?cb=20200731150018.png",
+  img: "20200731150018.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "鋼盾 掬彦 (Koujun Kikuhiko)",
-  img: "latest?cb=20100524143055.png",
+  img: "20100524143055.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "鴻野江 遥希 (Kounoe Haruki)",
-  img: "latest?cb=20100609022631.png",
+  img: "20100609022631.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "警策 看取 (Kouzaku Mitori)",
-  img: "latest?cb=20201001065113.png",
+  img: "20201001065113.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "雲川 鞠亜 (Kumokawa Maria)",
-  img: "latest?cb=20120415012004.png",
+  img: "20120415012004.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "雲川 芹亜 (Kumokawa Seria)",
-  img: "latest?cb=20170514131633.png",
+  img: "20170514131633.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "黒夜 海鳥 (Kuroyoru Umidori)",
-  img: "latest?cb=20130706134153.png",
+  img: "20130706134153.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "黒妻 綿流 (Kurozuma Wataru)",
-  img: "latest?cb=20100601190157.png",
+  img: "20100601190157.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "郭 (Kuruwa)",
-  img: "latest?cb=20160225081644.png",
+  img: "20160225081644.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "釧路帷子 (Kushiro Katabira)",
-  img: "latest?cb=20140731174743.png",
+  img: "20140731174743.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "橋国 亮太 (Kyougoku Ryouta)",
-  img: "latest?cb=20180811005248.png",
+  img: "20180811005248.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "レディバード (Ladybird)",
-  img: "latest?cb=20201122034641.png",
+  img: "20201122034641.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "打ち止め (Last Order)",
-  img: "latest?cb=20110321095954.png",
+  img: "20110321095954.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "舞殿星見（まいどのほしみ） (Maidono Hoshimi)",
-  img: "latest?cb=20200215101326.png",
+  img: "20200215101326.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "マキ (Maki)",
-  img: "latest?cb=20200731140318.png",
+  img: "20200731140318.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "牧上 小牧 (Makigami Komaki)",
-  img: "latest?cb=20170512130630.png",
+  img: "20170512130630.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "マコ (Mako)",
-  img: "latest?cb=20100530194007.png",
+  img: "20100530194007.png",
   opts: { series: ["超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "マナベ リツキ (Manabe Ritsuki)",
-  img: "latest?cb=20190803144208.png",
+  img: "20190803144208.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "鳴護 アリサ (Meigo Arisa)",
-  img: "latest?cb=20130921135213.png",
+  img: "20130921135213.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "美濃部 (Minobe)",
-  img: "latest?cb=20190129030656.png",
+  img: "20190129030656.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "みのり (Minori)",
-  img: "latest?cb=20130526140537.png",
+  img: "20130526140537.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一号 (Misaka 1)",
-  img: "latest?cb=20130710175144.png",
+  img: "20130710175144.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一〇〇三一号 (Misaka 10031)",
-  img: "latest?cb=20130623103107.png",
+  img: "20130623103107.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一〇〇三二号 (Misaka 10032)",
-  img: "latest?cb=20200926035942.png",
+  img: "20200926035942.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一〇〇三九号 (Misaka 10039)",
-  img: "latest?cb=20130712083459.png",
+  img: "20130712083459.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一〇〇四六号 (Misaka 10046)",
-  img: "latest?cb=20190802135736.png",
+  img: "20190802135736.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一〇七七七号 (Misaka 10777)",
-  img: "latest?cb=20190301125222.png",
+  img: "20190301125222.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一三五七七号 (Misaka 13577)",
-  img: "latest?cb=20130712083500.png",
+  img: "20130712083500.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ一九〇九〇号 (Misaka 19090)",
-  img: "latest?cb=20131101092152.png",
+  img: "20131101092152.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ八九一二号 (Misaka 8912)",
-  img: "latest?cb=20130524121847.png",
+  img: "20130524121847.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカ九九八二号 (Misaka 9982)",
-  img: "latest?cb=20130504185340.png",
+  img: "20130504185340.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "御坂 美琴 (Misaka Mikoto)",
-  img: "latest?cb=20120511115657.png",
+  img: "20120511115657.png",
   opts: { series: ["禁書", "超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "番外個体（ミサカワースト） (Misaka Worst)",
-  img: "latest?cb=20190215134933.png",
+  img: "20190215134933.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "蜜蟻 愛愉 (Mitsuari Ayu)",
-  img: "latest?cb=20190826140440.png",
+  img: "20190826140440.png",
   opts: { series: ["禁書", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "美山 写影 (Miyama Shaei)",
-  img: "latest?cb=20200724161835.png",
+  img: "20200724161835.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "実生 好子 (Miyoshi Yoshiko)",
-  img: "latest?cb=20111224133022.png",
+  img: "20111224133022.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "モガリ タクミ (Mogari Takumi)",
-  img: "latest?cb=20190803144152.png",
+  img: "20190803144152.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "麦野 沈利 (Mugino Shizuri)",
-  img: "latest?cb=20130531214206.png",
+  img: "20130531214206.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "結標 淡希 (Musujime Awaki)",
-  img: "latest?cb=20101112155812.png",
+  img: "20101112155812.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "むーちゃん (Muu)",
-  img: "latest?cb=20120507081042.png",
+  img: "20120507081042.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "名荷原弘見 (Nakahara Hiromi)",
-  img: "latest?cb=20190712175331.png",
+  img: "20190712175331.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "中邑 (Nakamura (manager))",
-  img: "latest?cb=20210228150512.png",
+  img: "20210228150512.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "亡本 裏蔵 (Nakimoto Rizou)",
-  img: "latest?cb=20190810135753.png",
+  img: "20190810135753.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "亡本裏蔵の祕書 (Nakimoto Rizou's Secretary)",
-  img: "latest?cb=20191027002736.png",
+  img: "20191027002736.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "ナオ (Nao)",
-  img: "latest?cb=20130504184950.png",
+  img: "20130504184950.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ナオヤ (Naoya)",
-  img: "latest?cb=20140412044727.png",
+  img: "20140412044727.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "西雄 (Nishio)",
-  img: "latest?cb=20190719134711.png",
+  img: "20190719134711.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "ノリコ (Noriko)",
-  img: "latest?cb=20191108232942.png",
+  img: "20191108232942.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "布束 砥信 (Nunotaba Shinobu)",
-  img: "latest?cb=20130420062620.png",
+  img: "20130420062620.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "丘原 燎多 (Okahara Ryouta)",
-  img: "latest?cb=20100526144939.png",
+  img: "20100526144939.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "重石 (Omoshi)",
-  img: "latest?cb=20200124143422.png",
+  img: "20200124143422.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "大河内 巡観 (Ookawachi Megumi)",
-  img: "latest?cb=20200731141325.png",
+  img: "20200731141325.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "親船 最中 (Oyafune Monaka)",
-  img: "latest?cb=20181012183026.png",
+  img: "20181012183026.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "親船最中の祕書 (Oyafune Monaka's Secretary)",
-  img: "latest?cb=20191028222301.png",
+  img: "20191028222301.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "親船 素甘 (Oyafune Suama)",
-  img: "latest?cb=20181012183031.png",
+  img: "20181012183031.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "紙袋をかぶったバニーガール (Paper Bag Bunny Girl)",
-  img: "latest?cb=20160223100637.png",
+  img: "20160223100637.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "海賊ラジオDJ (Pirate Radio DJ)",
-  img: "latest?cb=20200117142302.png",
+  img: "20200117142302.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "博士 (Professor)",
-  img: "latest?cb=20181103090213.png",
+  img: "20181103090213.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "わんこ検察官 (Puppy Prosecutor)",
-  img: "latest?cb=20180307221837.png",
+  img: "20180307221837.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "楽丘豊富 (Rakuoka Houfu)",
-  img: "latest?cb=20201122033959.png",
+  img: "20201122033959.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "恋査 #028 (Rensa #28)",
-  img: "latest?cb=20130706135928.png",
+  img: "20130706135928.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "恋査 #029 (Rensa #29)",
-  img: "latest?cb=20130709180703.png",
+  img: "20130709180703.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "リエ (Rie)",
-  img: "latest?cb=20140412044816.png",
+  img: "20140412044816.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "災誤 (Saigo)",
-  img: "latest?cb=20181209232457.png",
+  img: "20181209232457.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "才郷 良太 (Saigou Ryouta)",
-  img: "latest?cb=20110307162517.png",
+  img: "20110307162517.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "西東颯太 (Saitou Souta)",
-  img: "latest?cb=20191109061036.png",
+  img: "20191109061036.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "坂島 道端 (Sakashima Michibata)",
-  img: "latest?cb=20160612061038.png",
+  img: "20160612061038.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "咲蓮誘璃 (Sakibasu Yuri)",
-  img: "latest?cb=20181116195402.png",
+  img: "20181116195402.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "作楽木ナルハ (Sakuragi Naruha)",
-  img: "latest?cb=20200828160818.png",
+  img: "20200828160818.png",
   opts: { series: ["超電磁砲", "一方通行"], affiliation: ["science"] }
 },
 {
   name: "査楽 (Saraku)",
-  img: "latest?cb=20181118053425.png",
+  img: "20181118053425.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "佐天 涙子 (Saten Ruiko)",
-  img: "latest?cb=20200814135039.png",
+  img: "20200814135039.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "サトシ (Satoshi)",
-  img: "latest?cb=20141106150459.png",
+  img: "20141106150459.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "清ヶ太郞丸 (Seike Taroumaru)",
-  img: "latest?cb=20200905110710.png",
+  img: "20200905110710.png",
   opts: { series: ["超電磁砲", "一方通行"], affiliation: ["science"] }
 },
 {
   name: "神苑小路 瑠璃懸巣 (Shin'enkouji Rurikakesu)",
-  img: "latest?cb=20210226013124.png",
+  img: "20210226013124.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "潮岸 (Shiokishi)",
-  img: "latest?cb=20190125144011.png",
+  img: "20190125144011.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "白井 黒子 (Shirai Kuroko)",
-  img: "latest?cb=20200731141815.png",
+  img: "20200731141815.png",
   opts: { series: ["禁書", "超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "白絹仄火 (Shirakinu Honoka)",
-  img: "latest?cb=20190929070804.png",
+  img: "20190929070804.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "食蜂 操祈 (Shokuhou Misaki)",
-  img: "latest?cb=20201005134844.png",
+  img: "20201005134844.png",
   opts: { series: ["禁書", "超電磁砲", "アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "春暖嬉美 (Shundan Kimi)",
-  img: "latest?cb=20200307194259.png",
+  img: "20200307194259.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "蠢動 俊三 (Shundou Toshizou)",
-  img: "latest?cb=20181228123946.png",
+  img: "20181228123946.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "シャットアウラ＝セクウェンツィア (Shutaura Sequenzia)",
-  img: "latest?cb=20130915154929.png",
+  img: "20130915154929.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "削板 軍覇 (Sogiita Gunha)",
-  img: "latest?cb=20191215052228.png",
+  img: "20191215052228.png",
   opts: { series: ["禁書", "アストラル・バディ", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ステファニー＝ゴージャスパレス (Stephanie Gorgeouspalace)",
-  img: "latest?cb=20190722201514.png",
+  img: "20190722201514.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "杉谷 (Sugitani)",
-  img: "latest?cb=20190205035435.png",
+  img: "20190205035435.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "杉山 枝雄 (Sugiyama Edao)",
-  img: "latest?cb=20140508222932.png",
+  img: "20140508222932.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "砂皿 緻密 (Sunazara Chimitsu)",
-  img: "latest?cb=20181104082219.png",
+  img: "20181104082219.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "たっ (Ta)",
-  img: "latest?cb=20200731140720.png",
+  img: "20200731140720.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "鷹田杳子 (Takada Youko)",
-  img: "latest?cb=20190712175322.png",
+  img: "20190712175322.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "高梁 (Takahashi)",
-  img: "latest?cb=20190712175348.png",
+  img: "20190712175348.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "滝壺 理后 (Takitsubo Rikou)",
-  img: "latest?cb=20210220145832.png",
+  img: "20210220145832.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "タメゾウ (Tamezou)",
-  img: "latest?cb=20100602123554.png",
+  img: "20100602123554.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "道（タオ） (Tao)",
-  img: "latest?cb=20190128023002.png",
+  img: "20190128023002.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "鉄装 綴里 (Tessou Tsuzuri)",
-  img: "latest?cb=20100625124939.png",
+  img: "20100625124939.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "テツ (Tetsu)",
-  img: "latest?cb=20141106150555.png",
+  img: "20141106150555.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "鉄網 (Tetsumou)",
-  img: "latest?cb=20190206193756.png",
+  img: "20190206193756.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "テレスティーナ＝木原＝ライフライン (Therestina Kihara Lifeline)",
-  img: "latest?cb=20130908110054.png",
+  img: "20130908110054.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "トマス＝プラチナバーグ (Thomas Platinaburg)",
-  img: "latest?cb=20190118145818.png",
+  img: "20190118145818.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "飛緒 まみ (Tobio Mami)",
-  img: "latest?cb=20190706192006.png",
+  img: "20190706192006.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "飛緒 ゆみ (Tobio Yumi)",
-  img: "latest?cb=20180506105201.png",
+  img: "20180506105201.png",
   opts: { series: ["一方通行"], affiliation: ["science"] }
 },
 {
   name: "等々力 (Todoroki)",
-  img: "latest?cb=20201019082856.png",
+  img: "20201019082856.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "十河 麻実 (Togawa Asami)",
-  img: "latest?cb=20190224230753.png",
+  img: "20190224230753.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "寮監 (Tokiwadai Dorm Supervisor)",
-  img: "latest?cb=20200726094554.png",
+  img: "20200726094554.png",
   opts: { series: ["禁書", "アストラル・バディ", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "遠峰叶理 (Toomine Kanari)",
-  img: "latest?cb=20181001014515.png",
+  img: "20181001014515.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "トリック (Trick)",
-  img: "latest?cb=20100529193453.png",
+  img: "20100529193453.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "土御門 舞夏 (Tsuchimikado Maika)",
-  img: "latest?cb=20111118134850.png",
+  img: "20111118134850.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "月詠 小萌 (Tsukuyomi Komoe)",
-  img: "latest?cb=20120310184253.png",
+  img: "20120310184253.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "釣鐘茶寮 (Tsurigane Saryou)",
-  img: "latest?cb=20201202084431.png",
+  img: "20201202084431.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "初春 飾利 (Uiharu Kazari)",
-  img: "latest?cb=20200731150526.png",
+  img: "20200731150526.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "海原 光貴 (Unabara Mitsuki)",
-  img: "latest?cb=20100617202439.png",
+  img: "20100617202439.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ウサミミ (Usamimi)",
-  img: "latest?cb=20160223122155.png",
+  img: "20160223122155.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "観光喰い（バキュームピース） (Vacuum Piece)",
-  img: "latest?cb=20201124153033.png",
+  img: "20201124153033.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "ヴィヴァーナ＝オニグマ (Vivana Oniguma)",
-  img: "latest?cb=20201122033518.png",
+  img: "20201122033518.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "鰐河雷斧 (Wanigawa Raifu)",
-  img: "latest?cb=20191008040112.png",
+  img: "20191008040112.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "湾内 絹保 (Wannai Kinuho)",
-  img: "latest?cb=20200215023023.png",
+  img: "20200215023023.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "綿辺 (Watanabe)",
-  img: "latest?cb=20200117142535.png",
+  img: "20200117142535.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "ミサカネットワーク総体 (Will of the Whole Misaka Network)",
-  img: "latest?cb=20170514082113.png",
+  img: "20170514082113.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "薬丸医月 (Yakumaru Itsuki)",
-  img: "latest?cb=20200907144458.png",
+  img: "20200907144458.png",
   opts: { series: ["超電磁砲", "一方通行"], affiliation: ["science"] }
 },
 {
   name: "薬味 久子 (Yakumi Hisako)",
-  img: "latest?cb=20130525182830.png",
+  img: "20130525182830.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "山根 (Yamane)",
-  img: "latest?cb=20111210021123.png",
+  img: "20111210021123.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "山城 府昭 (Yamashiro Shoubu)",
-  img: "latest?cb=20201027033844.png",
+  img: "20201027033844.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "山手 (Yamate)",
-  img: "latest?cb=20181027212317.png",
+  img: "20181027212317.png",
   opts: { series: ["禁書"], affiliation: ["science"] }
 },
 {
   name: "柳迫 碧美 (Yanagisako Aomi)",
-  img: "latest?cb=20200731144609.png",
+  img: "20200731144609.png",
   opts: { series: ["超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "誉望 万化 (Yobou Banka)",
-  img: "latest?cb=20181027211938.png",
+  img: "20181027211938.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "黄泉川 愛穂 (Yomikawa Aiho)",
-  img: "latest?cb=20120308130041.png",
+  img: "20120308130041.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "芳川 桔梗 (Yoshikawa Kikyou)",
-  img: "latest?cb=20100620232632.png",
+  img: "20100620232632.png",
   opts: { series: ["禁書", "一方通行", "超電磁砲"], affiliation: ["science"] }
 },
 {
   name: "弓箭入鹿 (Yumiya Iruka)",
-  img: "latest?cb=20201101055215.png",
+  img: "20201101055215.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "弓箭 猟虎 (Yumiya Rakko)",
-  img: "latest?cb=20200814134550.png",
+  img: "20200814134550.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["science"] }
 },
 {
   name: "悠里千夜 (Yuuri Senya)",
-  img: "latest?cb=20201002132306.png",
+  img: "20201002132306.png",
   opts: { series: ["アストラル・バディ"], affiliation: ["science"] }
 },
 {
   name: "杠林檎 (Yuzuriha Ringo)",
-  img: "latest?cb=20201202084836.png",
+  img: "20201202084836.png",
   opts: { series: ["未元物質"], affiliation: ["science"] }
 },
 {
   name: "ビバリー＝シースルー (Beverly Seethrough)",
-  img: "latest?cb=20140615112329.png",
+  img: "20140615112329.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["other"] }
 },
 {
   name: "チャールズ＝コンダー (Charles Conder)",
-  img: "latest?cb=20101212032417.png",
+  img: "20101212032417.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ディダロス＝セクウェンツィア (Daedalus Sequenzia)",
-  img: "latest?cb=20130908152941.png",
+  img: "20130908152941.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ディグルヴ (Digurv)",
-  img: "latest?cb=20190215135537.png",
+  img: "20190215135537.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "エーカー＝ルゴーニ (Eiker Lugoni)",
-  img: "latest?cb=20181207144747.png",
+  img: "20181207144747.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "エカリエーリャ＝A＝プロンスカヤ (Ekalielya A. Pronskaya)",
-  img: "latest?cb=20190301170932.png",
+  img: "20190301170932.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "平山ラミ (Hirayama Rami)",
-  img: "latest?cb=20180529045033.png",
+  img: "20180529045033.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "人皮扶美の母 (Hitokawa Hasami's Mother)",
-  img: "latest?cb=20190728025007.png",
+  img: "20190728025007.png",
   opts: { series: ["一方通行"], affiliation: ["other"] }
 },
 {
   name: "一一一 (ひとついはじめ)  (Hitotsui Hajime)",
-  img: "latest?cb=20110807031056.png",
+  img: "20110807031056.png",
   opts: { series: ["超電磁砲", "禁書"], affiliation: ["other"] }
 },
 {
   name: "上条 詩菜 (Kamijou Shiina)",
-  img: "latest?cb=20110412014149.png",
+  img: "20110412014149.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "上条 刀夜 (Kamijou Touya)",
-  img: "latest?cb=20101104040204.png",
+  img: "20101104040204.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "婚后光子の父親 (Kongou Mitsuko's Father)",
-  img: "latest?cb=20160523123950.png",
+  img: "20160523123950.png",
   opts: { series: ["超電磁砲"], affiliation: ["other"] }
 },
 {
   name: "李 (Li)",
-  img: "latest?cb=20190612060200.png",
+  img: "20190612060200.png",
   opts: { series: ["一方通行"], affiliation: ["other"] }
 },
 {
   name: "李芳蘭 (Li Fanglan)",
-  img: "latest?cb=20190612060149.png",
+  img: "20190612060149.png",
   opts: { series: ["一方通行"], affiliation: ["other"] }
 },
 {
   name: "松乃山繁美 (Matsunoyama Shigemi)",
-  img: "latest?cb=20200807160643.png",
+  img: "20200807160643.png",
   opts: { series: ["超電磁砲"], affiliation: ["other"] }
 },
 {
   name: "御坂 美鈴 (Misaka Misuzu)",
-  img: "latest?cb=20140816183928.png",
+  img: "20140816183928.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["other"] }
 },
 {
   name: "御坂 旅掛 (Misaka Tabigake)",
-  img: "latest?cb=20140520005308.png",
+  img: "20140520005308.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ミュッセ (Musset)",
-  img: "latest?cb=20181207150019.png",
+  img: "20181207150019.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "オリーブ＝ホリデイ (Olive Holiday)",
-  img: "latest?cb=20140615112424.png",
+  img: "20140615112424.png",
   opts: { series: ["超電磁砲"], affiliation: ["other"] }
 },
 {
   name: "近江 手裏 (Oumi Shuri)",
-  img: "latest?cb=20191219040640.png",
+  img: "20191219040640.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["other"] }
 },
 {
   name: "パトリシア＝バードウェイ (Patricia Birdway)",
-  img: "latest?cb=20110815204504.png",
+  img: "20110815204504.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "リッチモンド (Richmond)",
-  img: "latest?cb=20181209173800.png",
+  img: "20181209173800.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ロベルト＝カッツェ (Roberto Katze)",
-  img: "latest?cb=20111212023213.png",
+  img: "20111212023213.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ローズライン＝クラックハルト (Roseline Krackhart)",
-  img: "latest?cb=20200527115420.png",
+  img: "20200527115420.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "サフリー＝オープンディズ (Saflee Opendays)",
-  img: "latest?cb=20190427020706.png",
+  img: "20190427020706.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "ソールジエ＝Ｉ＝クライニコフ (Soldier I. Krainikov)",
-  img: "latest?cb=20190208135351.png",
+  img: "20190208135351.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "田中 (Tanaka)",
-  img: "latest?cb=20181230153442.png",
+  img: "20181230153442.png",
   opts: { series: ["禁書"], affiliation: ["other"] }
 },
 {
   name: "野洲 (Yasu)",
-  img: "latest?cb=20180401034207.png",
+  img: "20180401034207.png",
   opts: { series: ["禁書", "超電磁砲"], affiliation: ["other"] }
 }
 ];

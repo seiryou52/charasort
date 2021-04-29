@@ -20,4 +20,4 @@ let dataSetVersion = '2021-04-29';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://raw.githubusercontent.com/seiryou52/charasort/master/src/assets/characters/';
+const imageRoot = 'https://raw.githubusercontent.com/seiryou52/charasort/master/src/assets/characters/latest%3Fcb%3D';
