@@ -8,11 +8,11 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain series.",
     checked: false,
     sub: [
-      { name: "Index", tooltip: "禁書", key: "禁書" },
-      { name: "Railgun", tooltip: "超電磁砲", key: "超電磁砲" },
-      { name: "Astral Buddy", tooltip: "アストラル・バディ", key: "アストラル・バディ" },
-      { name: "Accelerator", tooltip: "一方通行", key: "一方通行" },
-      { name: "Dark Matter", tooltip: "未元物質", key: "未元物質" }
+      { name: "禁書 (Index)", key: "禁書" },
+      { name: "超電磁砲 (Railgun)", key: "超電磁砲" },
+      { name: "アストラル・バディ (Astral Buddy)", key: "アストラル・バディ" },
+      { name: "一方通行 (Accelerator)", key: "一方通行" },
+      { name: "未元物質 (Dark Matter)", key: "未元物質" }
     ]
   },
   {
@@ -21,13 +21,13 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to characters with certain affiliations.",
     checked: false,
     sub: [
-      { name: "Science", tooltip: "科学サイド", key: "science" },
-      { name: "Magic", tooltip: "魔術サイド", key: "magic" },
-      { name: "Other", tooltip: "一般サイド", key: "other" }
+      { name: "科学サイド (Science)", key: "science" },
+      { name: "魔術サイド (Magic)", key: "magic" },
+      { name: "一般サイド (Other)", key: "other" }
     ]
   },
   {
-    name: "Remove Minor/Supporting Characters",
+    name: "Remove Minor/Supporting Characters (beta)",
     key: "is_supporting_character",
     tooltip: "Check this to remove minor/supporting characters."
   }
