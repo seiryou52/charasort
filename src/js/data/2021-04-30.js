@@ -27,7 +27,7 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Remove Minor/supporting Characters",
+    name: "Remove Minor/Supporting Characters",
     key: "is_supporting_character",
     tooltip: "Check this to remove minor/supporting characters."
   }
