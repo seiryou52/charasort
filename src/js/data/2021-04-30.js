@@ -264,7 +264,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["magic"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -588,7 +588,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["magic"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -777,7 +777,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["magic"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["magic"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -993,7 +993,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1029,7 +1029,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1083,7 +1083,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1110,7 +1110,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1137,7 +1137,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1173,7 +1173,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1209,7 +1209,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1236,7 +1236,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1245,7 +1245,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1254,7 +1254,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1335,7 +1335,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1344,7 +1344,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1389,7 +1389,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["アストラル・バディ"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1398,7 +1398,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1407,7 +1407,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1443,7 +1443,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1488,7 +1488,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1605,7 +1605,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1668,7 +1668,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲", "アストラル・バディ"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1794,7 +1794,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1830,7 +1830,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["アストラル・バディ"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1848,7 +1848,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1920,7 +1920,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -1929,7 +1929,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2010,7 +2010,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2019,7 +2019,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2064,7 +2064,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2073,7 +2073,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2082,7 +2082,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2118,7 +2118,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2172,7 +2172,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2199,7 +2199,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2226,7 +2226,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2253,7 +2253,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2280,7 +2280,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2298,7 +2298,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2352,7 +2352,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2379,7 +2379,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2487,7 +2487,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2514,7 +2514,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2568,7 +2568,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2577,7 +2577,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2676,7 +2676,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2685,7 +2685,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2694,7 +2694,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2766,7 +2766,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2847,7 +2847,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["未元物質"],
     affiliation: ["science"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2865,7 +2865,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2919,7 +2919,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2964,7 +2964,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -2973,7 +2973,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["一方通行"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -3081,7 +3081,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["禁書"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 },
 {
@@ -3099,7 +3099,7 @@ dataSet[dataSetVersion].characterData = [{
   opts: {
     series: ["超電磁砲", "禁書"],
     affiliation: ["other"],
-    is_supporting_character: True
+    is_supporting_character: true
   }
 }
 ];
