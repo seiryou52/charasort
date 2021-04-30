@@ -998,7 +998,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "泡浮 万彬 (Awatsuki Maaya)",
-  img: "20200214152156.png",
+  img: "20200214152156.1.png",
   opts: {
     series: ["超電磁砲", "禁書"],
     affiliation: ["science"],
@@ -1493,11 +1493,11 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "介旅 初矢 (Kaitabi Hatsuya)",
-  img: "20100521220419.png",
+  img: "20100521220419.1.png",
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
-    is_supporting_character: false
+    is_supporting_character: true
   }
 },
 {
@@ -1592,7 +1592,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "木原 幻生 (Kihara Gensei)",
-  img: "20200321034219.png",
+  img: "20200321034219.1.png",
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
@@ -2132,7 +2132,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "丘原 燎多 (Okahara Ryouta)",
-  img: "20100526144939.png",
+  img: "20100526144939.1.png",
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
@@ -2501,7 +2501,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "タメゾウ (Tamezou)",
-  img: "20100602123554.png",
+  img: "20100602123554.1.png",
   opts: {
     series: ["超電磁砲"],
     affiliation: ["science"],
@@ -2924,7 +2924,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "一一一 (ひとついはじめ)  (Hitotsui Hajime)",
-  img: "20110807031056.png",
+  img: "20110807031056.1.png",
   opts: {
     series: ["超電磁砲", "禁書"],
     affiliation: ["other"],
@@ -2951,7 +2951,7 @@ dataSet[dataSetVersion].characterData = [{
 },
 {
   name: "婚后光子の父親 (Kongou Mitsuko's Father)",
-  img: "20160523123950.png",
+  img: "20160523123950.1.png",
   opts: {
     series: ["超電磁砲"],
     affiliation: ["other"],
