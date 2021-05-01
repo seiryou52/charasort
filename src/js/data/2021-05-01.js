@@ -3107,7 +3107,7 @@ dataSet[dataSetVersion].characterData = [{
   name: '上条 当麻 (Kamijou Touma)',
   img: 'kamijou.png',
   opts: {
-    affiliation: ['s', 'c', 'i', 'e', 'n', 'c', 'e'],
+    affiliation: ['science'],
     series: ['超電磁砲', '禁書'],
     is_supporting_character: false
   }
