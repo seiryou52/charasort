@@ -36,6 +36,15 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
+    name: '上条 当麻 (Kamijou Touma)',
+    img: 'kamijou.png',
+    opts: {
+      affiliation: ['science'],
+      series: ['禁書', '超電磁砲'],
+      is_supporting_character: false
+    }
+  },
+  {
     name: '後方のアックア (Acqua of the Back)',
     img: '20181019191849.png',
     opts: {
