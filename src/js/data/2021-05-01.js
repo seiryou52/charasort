@@ -1004,7 +1004,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ['science'],
       series: ['超電磁砲', '禁書'],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -1742,7 +1742,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ['science'],
       series: ['超電磁砲', '禁書'],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -1769,7 +1769,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ['science'],
       series: ['超電磁砲', '禁書'],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -2633,7 +2633,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ['science'],
       series: ['超電磁砲', '禁書'],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -3056,7 +3056,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ['other'],
       series: ['禁書'],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
