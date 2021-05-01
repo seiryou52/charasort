@@ -104,7 +104,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ["magic"],
       series: ["禁書"],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -895,7 +895,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20190208142344.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -940,7 +940,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20110220101621.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -1300,7 +1300,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20120504171410.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -1319,7 +1319,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ["science"],
       series: ["超電磁砲"],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -1426,7 +1426,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20200828160039.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲"],
+      series: ["超電磁砲", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -1472,7 +1472,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ["science"],
       series: ["超電磁砲", "禁書"],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -1804,7 +1804,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20110321095954.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -2308,7 +2308,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20200828160818.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲"],
+      series: ["超電磁砲", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -2336,7 +2336,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ["science"],
       series: ["超電磁砲"],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -2344,7 +2344,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20200905110710.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲"],
+      series: ["超電磁砲", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -2534,7 +2534,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       affiliation: ["science"],
       series: ["超電磁砲"],
-      is_supporting_character: false
+      is_supporting_character: true
     }
   },
   {
@@ -2740,7 +2740,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20200907144458.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲"],
+      series: ["超電磁砲", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -2803,7 +2803,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20120308130041.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
@@ -2812,7 +2812,7 @@ dataSet[dataSetVersion].characterData = [
     img: "20100620232632.png",
     opts: {
       affiliation: ["science"],
-      series: ["一方通行", "超電磁砲", "禁書"],
+      series: ["超電磁砲", "禁書", "一方通行"],
       is_supporting_character: false
     }
   },
